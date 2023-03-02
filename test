@@ -6,4 +6,5 @@ print(Sum)
 
 # start = 10
 Sum = sum(numbers, 10)
+mul=mul(numbers,10)
 print(Sum)
