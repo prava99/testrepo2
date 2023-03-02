@@ -8,4 +8,3 @@ print(Sum)
 Sum = sum(numbers, 10)
 mul=mul(numbers,10)
 print(Sum)
-ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
